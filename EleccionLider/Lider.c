@@ -71,5 +71,4 @@ void eleccion_lider(int cadena_procesos[],int n,int *pos,int *num)
 				*num=cadena_procesos[j];
 			}	
         }
-	
 }
