@@ -73,4 +73,3 @@ void eleccion_lider(int cadena_procesos[],int n,int *pos,int *num)
         }
 	
 }
-Chat 
